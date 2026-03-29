@@ -2,6 +2,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=82&fontColor=FFFFFF&fontAlign=46&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
+
 # 💫 Description:
 Étudiant développeur passionné par la cybersécurité. <br>🎓​ En recherche d'alternance pour septembre 2026. 
 
