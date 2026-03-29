@@ -1,6 +1,7 @@
 
 ## 💫 Description:
-Étudiant développeur passionné par la cybersécurité. <br>🎓​ En recherche d'alternance pour septembre 2026. 
+Étudiant développeur passionné par la cybersécurité.
+🎓​ En recherche d'alternance pour septembre 2026. 
 
 
 ## 🌐 Réseaux:
